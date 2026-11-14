@@ -1,0 +1,14 @@
+# Database connection (required)
+db.url=jdbc:mysql://localhost:3306/oass?useSSL=false&serverTimezone=Asia/Kolkata
+db.user=oass_user
+db.password=change_me
+
+# Upload directory (optional; default: ${user.home}/oass-data/uploads)
+# upload.dir=/path/to/uploads
+
+# SMTP for OTP emails and reminders (optional; without these, OTPs go to the server log)
+# smtp.host=smtp.example.com
+# smtp.port=587
+# smtp.user=your@email.com
+# smtp.password=smtp_password
+# smtp.from=noreply@mru.edu

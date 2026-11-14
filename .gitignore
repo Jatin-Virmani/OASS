@@ -1,0 +1,24 @@
+# Maven build artifacts
+target/
+*.class
+*.war
+*.jar
+*.ear
+
+# IntelliJ IDEA & Editors
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Sensitive local configurations (passwords)
+config.properties
+oass-data/
+*.log
