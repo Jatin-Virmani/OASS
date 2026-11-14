@@ -21,20 +21,19 @@ The portal serves two primary user roles:
 
 ### Authentication & Student Dashboard
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Screen - Glassmorphism UI" width="49%">
-  <img src="screenshots/student-dashboard.png" alt="Student Dashboard & Progress Analytics" width="49%">
+  <img src="screenshots/login.png" alt="Login Screen - Glassmorphism UI" width="98%">
 </p>
 <p align="center">
-  <em>Left: Glassmorphism Login with MRU Campus Theme | Right: Student Dashboard with Visual Progress & Score Charts</em>
+  <em>Glassmorphism Login with MRU Campus Theme</em>
 </p>
 
-### Assignment Management & Teacher Portal
+### Student Dashboard & Teacher Dashboard
 <p align="center">
-  <img src="screenshots/student-assignments.png" alt="Student Assignments List" width="49%">
-  <img src="screenshots/teacher-dashboard.png" alt="Teacher Dashboard & Plagiarism Overview" width="49%">
+  <img src="screenshots/student-dashboard.png" alt="Student Dashboard & Progress Analytics" width="49%">
+  <img src="screenshots/teacher-dashboard.png" alt="teacher dashboard" width="49%">
 </p>
 <p align="center">
-  <em>Left: Assignment Deadlines & Live Status Tracking | Right: Faculty Dashboard with Class Turnout & Plagiarism Distribution</em>
+  <em>Left: Student Dashboard with Visual Progress & Score Charts | Right: Faculty Dashboard with Class Turnout</em>
 </p>
 
 ### Faculty Assignment Publishing
@@ -43,6 +42,23 @@ The portal serves two primary user roles:
 </p>
 <p align="center">
   <em>Faculty Assignment Publisher with Multi-Section Target, Late Submission Penalty Policy & Rubric Schemes</em>
+</p>
+
+### Assignment Management
+<p align="center">
+  <img src="screenshots/student-assignments.png" alt="Student Assignments List" width="98%">
+</p>
+<p align="center">
+  <em>Assignment Deadlines & Live Status Tracking </em>
+</p>
+
+### Assignment Plagiarism Check & Side-by-side Comparison
+<p align="center">
+  <img src="screenshots/Plagiarism detection.png" alt="Plagiarism detection" width="49%">
+  <img src="screenshots/comparison.png" alt="comparison" width="49%">
+</p>
+<p align="center">
+  <em>Left: Assignment Plagiarism Detection Engine | Right: Side-by-side Comparison</em>
 </p>
 
 ---
